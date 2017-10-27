@@ -1,5 +1,6 @@
 *.bc
 *.js
 *.o
+*.a
 package.json
 .npmignore
